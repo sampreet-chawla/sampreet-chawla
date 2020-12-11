@@ -7,7 +7,7 @@ When I'm not coding, I enjoy spending time with family and keeping myself fit. I
 
 ### - 📫 How to reach me: 
 
-[Portfolio](https://sampreet-chawla.github.io/) |  [![LinkedIn][2.2]](https://www.linkedin.com/in/sampreet-chawla/)   |   [DEV.to](https://dev.to/sampreetchawla)
+[Portfolio](https://sampreet-chawla.github.io/) |  [LinkedIn](https://www.linkedin.com/in/sampreet-chawla/)   |   [DEV.to](https://dev.to/sampreetchawla)
 
 <!--
 **sampreet-chawla/sampreet-chawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
